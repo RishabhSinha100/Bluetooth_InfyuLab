@@ -1,6 +1,6 @@
 # 📲 Bluetooth Device Connector App
 
-A simple React Native application that allows user authentication, displays user profile details, and provides Bluetooth Low Energy (BLE) scanning and device connection functionality.
+A simple React Native application that allows user authentication, displays user profile details, and  scanning device connection functionality.
 
 ---
 
