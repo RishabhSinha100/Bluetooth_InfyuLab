@@ -21,13 +21,7 @@ A simple React Native application that allows user authentication, displays user
 - Secure token storage with access to protected routes
 - Fetch and display **user profile** after login
 
-### 📡 Bluetooth
 
-- Scan for **nearby BLE devices**
-- Display device name, UUID/MAC, and signal strength (RSSI)
-- Connect to a selected device
-- Show connection status and device details
-- Disconnect functionality
 
 ---
 ## 🚀 How to Setup & Run
