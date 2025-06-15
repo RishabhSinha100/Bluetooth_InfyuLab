@@ -31,7 +31,4 @@ A simple React Native application that allows user authentication, displays user
 
 ---
 
-## 🔗 API Endpoints
-
-### ▶ Register
 
